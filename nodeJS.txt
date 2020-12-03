@@ -1,0 +1,6 @@
+__filename
+//gets filename
+
+__dirname
+//gets directory name
+
