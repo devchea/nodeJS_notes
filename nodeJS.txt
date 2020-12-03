@@ -1,6 +1,6 @@
-__filename
+console.log(__filename)
 //gets filename
 
-__dirname
+console.log(__dirname)
 //gets directory name
 
