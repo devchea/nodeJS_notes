@@ -19,7 +19,7 @@ const numbers = require('./stuff.js')
 console.log(num)
 //=> [1 , 2 , 3 ]
 console.log(numbers)
-
+//=> [1 , 2 , 3 ]
 
 
 
