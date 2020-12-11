@@ -21,4 +21,3 @@ console.log(num)
 console.log(numbers)
 //=> [1 , 2 , 3 ]
    
-
