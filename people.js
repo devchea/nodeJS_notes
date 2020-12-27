@@ -7,9 +7,9 @@ module.exports = {
 }  
 
 #     => [
-    #         ["a", 1,  "cat" ],
-    #         ["b", 2,  "dog" ],
-    #         ["c", 3,  "cow" ],
-    #         ["d", 4,  "pig" ], 
-    #         ["e", 5, "horse"]
+    #         ["a", 1,  "red" ],
+    #         ["b", 2,  "blue" ],
+    #         ["c", 3,  "yellow" ],
+    #         ["d", 4,  "green" ], 
+    #         ["e", 5, "orange"]
     #       ]
