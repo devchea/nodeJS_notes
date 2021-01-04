@@ -6,9 +6,3 @@ module.exports = {
     age
 }  
 
-#     => [
-    #         ["a", 1,  "red" ],
-    #         ["b", 2,  "blue" ],
-    #         ["c", 3,  "yellow" ],
-    #         ["d", 4,  "green" ], 
-    #         ["e", 5, "oran
